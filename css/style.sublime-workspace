@@ -1,0 +1,400 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"text",
+				"text-decoration\tproperty"
+			],
+			[
+				"padd",
+				"padding\tproperty"
+			],
+			[
+				"im",
+				"important"
+			],
+			[
+				"what",
+				"WhatsApp"
+			],
+			[
+				"tran",
+				"transition-duration\tproperty"
+			],
+			[
+				"tra",
+				"transition\tproperty"
+			],
+			[
+				"h",
+				"height\tproperty"
+			],
+			[
+				"i",
+				"important"
+			],
+			[
+				"in",
+				"inherit\tdisplay"
+			],
+			[
+				"di",
+				"display\tproperty"
+			],
+			[
+				"back",
+				"background-color\tproperty"
+			],
+			[
+				"font-s",
+				"font-size\tproperty"
+			],
+			[
+				"font",
+				"font-size\tproperty"
+			],
+			[
+				"vi",
+				"visiblity"
+			],
+			[
+				"drop",
+				"dropdown-lable"
+			],
+			[
+				"a",
+				"a\tTag"
+			],
+			[
+				"paddi",
+				"padding-top\tproperty"
+			],
+			[
+				"box",
+				"box-sizing\tproperty"
+			],
+			[
+				"mar",
+				"margin-bottom\tproperty"
+			],
+			[
+				"max",
+				"max-height\tproperty"
+			],
+			[
+				"ba",
+				"background-size\tproperty"
+			],
+			[
+				"rg",
+				"rgba()\tbackground"
+			],
+			[
+				"fig",
+				"figcaption\tTag"
+			],
+			[
+				"border-co",
+				"border-color\tproperty"
+			],
+			[
+				"backgrou",
+				"background\tproperty"
+			],
+			[
+				"c",
+				"cover\tobject-fit"
+			],
+			[
+				"ob",
+				"object-fit\tproperty"
+			],
+			[
+				"bac",
+				"background-color\tproperty"
+			],
+			[
+				"st",
+				"style\tTag"
+			],
+			[
+				"margin",
+				"margin-top\tproperty"
+			],
+			[
+				"text-",
+				"text-decoration\tproperty"
+			],
+			[
+				"inline",
+				"inline-block\tdisplay"
+			],
+			[
+				"min",
+				"min-height\tproperty"
+			],
+			[
+				"content",
+				"content-center"
+			],
+			[
+				"backgroun",
+				"background-color\tproperty"
+			],
+			[
+				"s",
+				"section\tTag"
+			],
+			[
+				"backgro",
+				"background-color\tproperty"
+			],
+			[
+				"backgr",
+				"background\tproperty"
+			],
+			[
+				"pad",
+				"padding\tproperty"
+			],
+			[
+				"pa",
+				"padding\tproperty"
+			],
+			[
+				"co",
+				"cover\tbackground-size"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"//192.168.1.51/Elsner-Projects/Design/priyank/version-10 mistico/Mistico/tour-ticket.html",
+		"//192.168.1.51/Elsner-Projects/Design/priyank/version-10 mistico/Mistico/our-park.html",
+		"//192.168.1.51/Elsner-Projects/Design/priyank/version-10 mistico/Mistico/natural-attractions.html",
+		"//192.168.1.51/Elsner-Projects/Design/priyank/version-10 mistico/Mistico/book-now.html",
+		"//192.168.1.51/Elsner-Projects/Design/priyank/version-10 mistico/Mistico/blog-detail.html",
+		"//192.168.1.51/Elsner-Projects/Design/priyank/version-10 mistico/Mistico/blog.html",
+		"//192.168.1.51/Elsner-Projects/Design/priyank/version-10 mistico/Mistico/tour-travel-detailpage.html",
+		"//192.168.1.51/Elsner-Projects/Design/priyank/version-10 mistico/Mistico/faq.html",
+		"//192.168.1.51/Elsner-Projects/Design/priyank/version-10 mistico/Mistico/contact-us.html",
+		"//192.168.1.51/Elsner-Projects/Design/priyank/version-10 mistico/Mistico/js/script.js",
+		"/C/Users/nteam/Desktop/priiyank/Mistico/book-now.html",
+		"/C/Users/nteam/Desktop/priiyank/Mistico/js/script.js",
+		"/C/Users/nteam/Desktop/priiyank/Mistico/js/moment-with-locales.js",
+		"/C/Users/nteam/Desktop/priiyank/Mistico/js/calender-one.js",
+		"/C/Users/nteam/Desktop/priiyank/Mistico/css/style.css",
+		"/C/Users/nteam/Desktop/date/css/calendar.css",
+		"/C/Users/nteam/Desktop/date/jquery-ui-datepicker.min.js",
+		"/C/Users/nteam/Desktop/date/index.html",
+		"/C/Users/nteam/Desktop/priiyank/Mistico/index.html",
+		"/C/Users/nteam/Desktop/datetimepicker-master/jquery.datetimepicker.css",
+		"/C/Users/nteam/Desktop/datetimepicker-master/jquery.datetimepicker.min.js",
+		"//192.168.1.51/Elsner-Projects/Design/priyank/version-10 mistico/Mistico/css/style.css",
+		"//192.168.1.51/Elsner-Projects/Design/priyank/version-10 mistico/Mistico/css/flexnav.css",
+		"//192.168.1.51/Elsner-Projects/Design/krunal/version-10 mistico/Mistico/css/style.css",
+		"//192.168.1.51/Elsner-Projects/Design/priyank/version-10 mistico/Mistico/Natural_attractions.html",
+		"/C/Users/nteam/Desktop/Mistico/book-now.html",
+		"/C/Users/nteam/Desktop/Mistico/tour-ticket.html",
+		"/C/Users/nteam/Desktop/updated mistico/version-10 mistico/Mistico/css/style.css",
+		"/C/Users/nteam/Desktop/updated mistico/version-10 mistico/Mistico/js/script.js",
+		"/C/Users/nteam/Downloads/helvetica-newu/HelveticaNeue.css",
+		"/C/Users/nteam/Desktop/nimesh/psd/css/responsive.css",
+		"/C/Users/nteam/Downloads/webfontkit-20190306-021405/stylesheet.css",
+		"/C/Users/nteam/Desktop/nimesh/psd/css/style.css",
+		"/C/Users/nteam/Desktop/nimesh/psd/index.html",
+		"/C/Users/nteam/Downloads/h-bold/HelveticaNeueBd.css",
+		"/C/Users/nteam/Downloads/ef_conv_zip_pIoXWGlwhZWubmCtrmgWaweF/HelveticaNeueMedium.css",
+		"/C/Users/nteam/Desktop/nimesh/psd/css/custom.css",
+		"/C/Users/nteam/Desktop/New folder (3)/Mistico/faq.html",
+		"/C/Users/nteam/Desktop/New folder (3)/Mistico/js/script.js",
+		"/C/Users/nteam/Desktop/New folder (3)/Mistico/css/style.css",
+		"/C/Users/nteam/Desktop/New folder (3)/Mistico/index.html",
+		"/C/Users/nteam/Desktop/New folder (3)/Mistico/our-park.html",
+		"/C/Users/nteam/Desktop/priyank/demo.html",
+		"//192.168.1.51/Elsner-Projects/Design/priyank/version-10 mistico/Mistico/index.html",
+		"/C/Users/nteam/Desktop/version-11 mistico/Mistico/css/style.css",
+		"//192.168.1.51/Elsner-Projects/Design/Parth/timeline/css/style.css",
+		"/C/Users/nteam/Desktop/version-10 mistico/Mistico/our-park.html",
+		"/C/Users/nteam/Desktop/version-10 mistico/Mistico/css/style.css",
+		"//192.168.1.51/Elsner-Projects/Design/Parth/timeline/our-park.html",
+		"/C/Users/nteam/Desktop/version-10 mistico/Mistico/blog.html",
+		"/C/Users/nteam/Desktop/version-10 mistico/Mistico/index.html",
+		"/C/Users/nteam/Desktop/version-11 mistico/Mistico/blog.html",
+		"//192.168.1.51/Elsner-Projects/Design/priyank/version-10 mistico/Mistico/js/jquery.meanmenu.js",
+		"/C/Users/nteam/Desktop/version-11 mistico/Mistico/js/jquery.meanmenu.js",
+		"/C/Users/nteam/Desktop/version-11 mistico/Mistico/index.html",
+		"//192.168.1.51/Elsner-Projects/Design/priyank/Mistico/js/script.js",
+		"//192.168.1.51/Elsner-Projects/Design/priyank/version-10 mistico/Mistico/Our-park.html",
+		"//192.168.1.51/Elsner-Projects/Design/priyank/version-10 mistico/Mistico/tour&ticket.html",
+		"//192.168.1.51/Elsner-Projects/Design/priyank/version-10 mistico/Mistico/tour&travel-detailpage.html",
+		"//192.168.1.51/Elsner-Projects/Design/krunal/version-11/Mistico/css/style.css",
+		"/C/Users/nteam/Desktop/priiyank/Version-8 mistico/Mistico/Our-park.html",
+		"/C/Users/nteam/Desktop/priiyank/Version-8 mistico/Mistico/css/style.css",
+		"/C/Users/nteam/Desktop/priiyank/Version-8 mistico/Mistico/Natural_attractions.html",
+		"/C/Users/nteam/Desktop/priiyank/Version-8 mistico/Mistico/index.html",
+		"/C/Users/nteam/Desktop/priiyank/Version-8 mistico/Mistico/css/flexnav.css",
+		"/C/Users/nteam/Desktop/priiyank/Version-8 mistico/Mistico/js/script.js",
+		"/C/Users/nteam/Desktop/priiyank/Version-8 mistico/Mistico/tour&ticket.html",
+		"/C/Users/nteam/Desktop/priiyank/Version-8 mistico/Mistico/tour&travel-detailpage.html",
+		"/C/Users/nteam/Desktop/mistico-krunal/Mistico/css/style.css",
+		"/C/Users/nteam/Desktop/vertical-timeline-master/css/style.css",
+		"/C/Users/nteam/Desktop/vertical-timeline-master/index.html",
+		"/C/Users/nteam/Desktop/Version-8 mistico/Mistico/css/style.css"
+	],
+	"find":
+	{
+		"height": 29.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 29.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "style.sublime-project",
+	"replace":
+	{
+		"height": 54.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
